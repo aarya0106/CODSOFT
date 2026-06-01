@@ -1,2 +1,2 @@
 # CODSOFT
-Repository for my tech internship tasks at CodSoft
+Repository for my tech internship tasks at CodSoft.
